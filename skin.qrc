@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/fvoice.png</file>
+        <file>images/QFramer.png</file>
+        <file>images/QFramer1.png</file>
+    </qresource>
+</RCC>
